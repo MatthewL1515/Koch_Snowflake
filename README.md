@@ -11,4 +11,5 @@ I'd have a translate function move the coordinates of the canvas to the middle.
 
 # Recursive Steps
 * Every line segment of the triangle will be split into 4 parts:
-* * The first and last third segment of the line will remain straight.
+  * The first and last third segment of the line will remain straight.
+  * 
